@@ -1,4 +1,4 @@
-
+[![Build Status](https://hmic3.visualstudio.com/RPA/_apis/build/status/hmjb.pipelines-java?branchName=main)](https://hmic3.visualstudio.com/RPA/_build/latest?definitionId=2&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
